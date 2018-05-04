@@ -1,0 +1,11 @@
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\bin\Release\ClassLibrary3.dll.config
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\bin\Release\ClassLibrary3.dll
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\bin\Release\ClassLibrary3.pdb
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\bin\Release\Newtonsoft.Json.dll
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\bin\Release\Wox.Plugin.dll
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\bin\Release\Newtonsoft.Json.xml
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\obj\Release\ClassLibrary3.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\obj\Release\ClassLibrary3.csproj.CopyComplete
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\obj\Release\ClassLibrary3.dll
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\obj\Release\ClassLibrary3.pdb
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\obj\Release\ClassLibrary3.csprojResolveAssemblyReference.cache

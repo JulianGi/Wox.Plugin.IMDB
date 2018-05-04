@@ -1,0 +1,11 @@
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\bin\Release\Wox.Plugin.IMDB.dll.config
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\bin\Release\Wox.Plugin.IMDB.dll
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\bin\Release\Wox.Plugin.IMDB.pdb
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\bin\Release\Newtonsoft.Json.dll
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\bin\Release\Wox.Plugin.dll
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\bin\Release\Newtonsoft.Json.xml
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\obj\Release\Wox.Plugin.IMDB.csprojResolveAssemblyReference.cache
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\obj\Release\Wox.Plugin.IMDB.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\obj\Release\Wox.Plugin.IMDB.csproj.CopyComplete
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\obj\Release\Wox.Plugin.IMDB.dll
+C:\Users\julia\source\repos\ClassLibrary3\ClassLibrary3\obj\Release\Wox.Plugin.IMDB.pdb

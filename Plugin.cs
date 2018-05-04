@@ -1,10 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Net;
-using System.Windows.Forms;
 using System.Data;
 using System.Net.NetworkInformation;
 using Wox.Plugin;
@@ -44,7 +41,7 @@ public class Movie
     public string BoxOffice { get; set; }
     public string Production { get; set; }
     public string Website { get; set; }
-    public string Resposnse { get; set; }
+    public string Resposnse { get; set; } //can't be read as bool for some reason
 }
 
 namespace Wox.Plugin.Test
